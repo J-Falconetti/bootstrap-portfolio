@@ -3,6 +3,12 @@
     font-family: fantasy;
     font-size: 18px;
     color: limegreen;
+
+}
+
+
+body {
+    background-image: url('../images/bround.jpg');
 }
 
 .page-footer {
@@ -19,6 +25,7 @@
 }
 .titleheading{
     text-align: center;
+    color: red;
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 40PX;       
 }
@@ -32,7 +39,7 @@
      display: block;
      }
 
-     .spacer75 { 
+ .spacer75 { 
         height: 75px;
          width: 100%;
         font-size: 0;
